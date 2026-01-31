@@ -1,5 +1,6 @@
 Privacy Policy for Dev
 Last updated: 2026-01-31
+Package name: com.dev.app
 This Privacy Policy describes how the Dev app ("the App") collects, uses,
 and shares information when you use the App.
 Information We Collect
